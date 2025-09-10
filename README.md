@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**hzd-afk/hzd-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+Who Am I?
+- 👋 Hi, I'm **Abhinav Mahato**.
+- 🌱 I’m currently exploring **Data Structures and Algorithms** and **Machine Learning**.
+- 💻 Languages I know: **Python**, **C**, **C++**.
+- 🎓 **B.Tech** in **CSE** pursuing **Artificial Intelligence & Machine Learning @ SMIT**. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Find Me  
+- 🔗 **LeetCode** at [Abhinav_mahato4](https://leetcode.com/u/Abhinav_mahato04/)  
+- 💼 **LinkedIn** at [Abhinav kumar Mahato](https://www.linkedin.com/in/abhinav-kumar-mahato-14223831a/)  
+- 𝕏  **Twitter** at [Abhinav Mahato](https://x.com/hazard_zip)  
+- 📧 **Mail me** at: abhinavmahato1@gmail.com  
+
+---
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Abhinav_mahato04?theme=light,unicorn)](https://leetcode.com/u/Abhinav_mahato04/)
